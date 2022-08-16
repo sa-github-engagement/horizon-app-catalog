@@ -1,2 +1,2 @@
-# template-app-catalog
-Template repository for creating catalogs
+# horizon-app-catalog
+A GiantSwarm app catalog for Horizon
